@@ -27,6 +27,6 @@ Generated insights on total sales, item visibility, and outlet performance to su
 🧠 Used Queries: SELECT, WHERE, GROUP BY, ORDER BY, SUM(), AVG(), DISTINCT, LIMIT and JOIN
 
 ## 👨‍💻 Author
-Subhadhanush 📌 Data Analyst Enthusiast | Power BI Learner | Dashboard Creator
+Subhadhanush 📌 Data Analyst Enthusiast | SQL Learner 
 
 ## 🌟 If you like this project, don’t forget to ⭐ the repo!
