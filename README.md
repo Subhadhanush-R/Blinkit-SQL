@@ -11,8 +11,11 @@ Generated insights on total sales, item visibility, and outlet performance to su
 
 ## 📊 KPI's Requirements
 1.Total sales - The overall revenue generated from all items sold.
+
 2.Average sales - The average revenue per sale.
+
 3.Number of items - The total count of different items sold.
+
 4.Average rating - The average customer rating for items sold. 
 
 ## 🏗️ Tech Stack
