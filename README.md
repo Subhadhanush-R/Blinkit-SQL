@@ -10,13 +10,13 @@ Generated insights on total sales, item visibility, and outlet performance to su
  - <a href="https://github.com/Subhadhanush-R/Blinkit-SQL/blob/main/blinkit_database.sql">View Dashboard</a>
 
 ## 📊 KPI's Requirements
-1.Total sales - The overall revenue generated from all items sold.
+1. Total sales - The overall revenue generated from all items sold.
 
-2.Average sales - The average revenue per sale.
+2. Average sales - The average revenue per sale.
 
-3.Number of items - The total count of different items sold.
+3. Number of items - The total count of different items sold.
 
-4.Average rating - The average customer rating for items sold. 
+4. Average rating - The average customer rating for items sold. 
 
 ## 🏗️ Tech Stack
 🛠️ Tool: Mysql
