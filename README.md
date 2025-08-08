@@ -2,22 +2,23 @@
 This project explores sales trends and customer preferences across item types, fat content, outlet size, and location.
 It leverages SQL to calculate total and average sales, ratings, and performance insights for business decisions.
 
-## 📸 Dashboard Preview
-<img width="311" height="162" alt="images" src="https://github.com/user-attachments/assets/c6f8f0dc-75ff-4cf0-ab49-5611738be521" />
-
 ## 📌 Overview
 Performed data analysis on Blinkit sales using SQL, focusing on product types, outlet locations, and customer trends.
 Generated insights on total sales, item visibility, and outlet performance to support data-driven decision-making.
 
-## Dataset used 
- - <a href="https://github.com/Subhadhanush-R/Amazonprime-Analysis/blob/main/Amazonprime_Analysis.pbix">View Dashboard</a>
+## 🐬 Query used 
+ - <a href="https://github.com/Subhadhanush-R/Blinkit-SQL/blob/main/blinkit_database.sql">View Dashboard</a>
 
-## 📊 Key Features
-✅ 
+## 📊 KPI's Requirements
+1.Total sales - The overall revenue generated from all items sold.
+2.Average sales - The average revenue per sale.
+3.Number of items - The total count of different items sold.
+4.Average rating - The average customer rating for items sold. 
+
 ## 🏗️ Tech Stack
-* Tool: Microsoft Excel, Microsoft Power BI
-* Data Processing: Power Query
-* Visuals Used: 
+🛠️ Tool: Mysql
+🔄 Data Processing: Item_Type, Item_Fat_Content, Outlet_Size, Item_Visibility, and Outlet_Location_Type.
+🧠 Used Queries: SELECT, WHERE, GROUP BY, ORDER BY, SUM(), AVG(), DISTINCT, LIMIT and JOIN
 
 ## 👨‍💻 Author
 Subhadhanush 📌 Data Analyst Enthusiast | Power BI Learner | Dashboard Creator
